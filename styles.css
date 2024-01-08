@@ -1,0 +1,21 @@
+body {
+    background-color: #5f5f5f;
+}
+
+.hidden-canvas {
+    border: 1px solid #000;
+    margin: auto;
+    display: none;
+}
+
+.test-grid {
+    background-color: #000;
+}
+
+.buttons {
+    text-align: center;
+}
+
+.buttons button {
+    width: 84px;
+}
